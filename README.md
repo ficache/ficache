@@ -2,7 +2,7 @@
 
 ###
 
-<div align="center">Rust and java enjoyer
+<div align="center">Rust and c# enjoyer
 
 ###
 
