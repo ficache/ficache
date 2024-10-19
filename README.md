@@ -5,6 +5,7 @@
 <div align="center">
 
 I'm interested in contribuiting to OSS projects and developing low-level programs.
+Gentoo linux user
 
 
 ## My skills:
