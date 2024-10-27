@@ -1,8 +1,10 @@
 # Hello World! I'm ficache 👋
-**Backend Developer | OSS Enthusiast**
+**Russian | Backend Developer | OSS Enthusiast |**
 
 Thank you for checking my profile! I'm primary focused on backend development.
 But I'm thrive learning new complex ideas in any fields.
+I'm only in beginning of long programming journey, so any help and criticism is welcome. 
+I'll work hard to improve myself.
 
 ## My skills 📝
 - **Rust**: tokio, actix
