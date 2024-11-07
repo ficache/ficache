@@ -9,18 +9,16 @@ I'll work hard to improve myself.
 ## My skills 📝
 - **Rust**: tokio, actix
 - **Nix**: flakes
+- **Go**
 
 ## My current focuses 🎯
 
 ### Projects ⚒️
 
-- **Personal-Cryptosystem**: small, simple and concise graduation project. 
-I'm currently pondering about it, so no more information available.
-- **ASCII drawing engine**: robust and easy tool in Rust 
-to make 2D graphics using CLI. 
+- Checkout my repos!
 
 ### Learning 📈
-- Acquiring skills in C#
+- Acquiring skills in Go
 - Basic git commands and how to contribuite to projects (silly me)
 
 ## My stats 📊
